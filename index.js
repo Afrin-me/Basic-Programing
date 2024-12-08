@@ -12,3 +12,13 @@ function findPrime(num){
     }
 }
 findPrime(3)
+
+// odd-even 
+function evenOdd(num){
+    if(num % 2===0){
+        console.log(true)
+    }else{
+        console.log(falseg)
+    }
+}
+evenOdd(4)
